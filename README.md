@@ -18,7 +18,7 @@ Hello World Eu quero me apresentar meu nome é Esteban Jose Gonzalez Gomez Eu so
 
 Eu também sou um entusiasta e mantenedor de código aberto. Aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de conhecimento aconteceram através de código aberto.
 
-- 💼 algum trabalho autônomo? chegar, [email](mailto:esteban030991@gmail.com) :)
+- 💼 algum trabalho autônomo? chegar, [email](esteban030991@gmail.com) :)
 - 💬 pergunte-me sobre qualquer coisa, eu estou feliz em ajudar:
 
 
