@@ -60,14 +60,3 @@ se você gosta do que eu faço, talvez considere me comprar uma coca-cola🥺�
 
 <a href="https://paypal.me/esteban05?country.x=VE&locale.x=es_XC" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.huffpost.com%2Fgen%2F3251586%2Fimages%2Fo-COCA-COLA-facebook.jpg&f=1&nofb=1" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,982 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 669 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Estebanjgg/&show_icons=true&theme=gotham" alt="Estebanjgg/" />
