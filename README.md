@@ -10,11 +10,8 @@
 
   
  ### Hello WORLD<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.gg/3fvRhwQE">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -28,13 +25,12 @@ Hello World Eu quero me apresentar meu nome é Esteban Jose Gonzalez Gomez Eu so
 
 Eu também sou um entusiasta e mantenedor de código aberto. Aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de conhecimento aconteceram através de código aberto.
 
-- 💼 algum trabalho autônomo? chegar Esteban030990@gmail.com :)
-- 💬 pergunte-me sobre qualquer coisa, eu estou feliz em ajudar:
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-
+- 💼 algum trabalho autônomo? chegar Esteban030990@gmail.com :)
+-  Meu Telefono +55(11)941194455
+- 💬 pergunte-me sobre qualquer coisa, eu estou feliz em ajudar:
+ 
 
 **languages and tools:**  
 
