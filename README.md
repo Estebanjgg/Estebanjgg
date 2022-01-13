@@ -1,23 +1,15 @@
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         || hi |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========,'
-              ### Hello WORLD<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<br>
+<br>
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Estebanjgg&show_icons=true" />
+<br>
+<br>
+
+  
+ ### Hello WORLD<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
