@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<img src="https://i.giphy.com/media/xUPGcIJKL7XnQSW2vC/giphy.webp" width="400px" />
 <br>
 <br>
 <br>
@@ -11,10 +11,10 @@
   
  ### Hello WORLD<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/3fvRhwQE">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Esteban Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/esteban-gonzalez-gomez-297771173/">
+  <img align="left" alt="Esteban LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Estebanjgg.Estebanjgg)
