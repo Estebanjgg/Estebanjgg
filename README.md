@@ -53,10 +53,3 @@ Node.Js      60 mins         ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,982 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 669 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
