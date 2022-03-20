@@ -13,7 +13,7 @@
 <a href="https://discord.gg/3fvRhwQE">
   <img align="left" alt="Esteban Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.linkedin.com/in/esteban-gonzalez-gomez-297771173/">
+<a href="https://www.linkedin.com/in/esteban-jose-gonzalez-gomez-297771173/">
   <img align="left" alt="Esteban LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
