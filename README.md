@@ -11,15 +11,21 @@
   
  ### Hello WORLD<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/3fvRhwQE">
-  <img align="left" alt="Esteban Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Esteban Discord" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/esteban-jose-gonzalez-gomez-297771173/">
-  <img align="left" alt="Esteban LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Esteban LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+    <br>
+  <br>
+  <br>
+  <br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Estebanjgg.Estebanjgg)
 
 <br />
+  <br>
+  <br>
 
 Hello World Eu quero me apresentar meu nome é Esteban Jose Gonzalez Gomez Eu sou um Programador Iniciante, mas com uma paixão por um longo tempo eu amo a parte física do computador que eu amo para reparar computadores. Estou aprendendo Javascript quero ser um profissional em javascript puro eu também quero lidar com Nodejs Phyton eu tenho um ligeiro conhecimento, mas estou estudando com constância... Eu gosto que meus códigos são tão ordenados quanto possível eu gosto de ser cooperativo se alguém precisa da minha ajuda com certeza há estare
 
