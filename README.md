@@ -42,14 +42,5 @@ Eu também sou um entusiasta e mantenedor de código aberto. Aprendi muito com a
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **Esta semana eu passei meu tempo em::**
-<!--START_SECTION:waka-->
-```text
-JavaScript   13 hrs 53 mins  █████████████████████▒░░░   85.82 % 
-Phyton       3 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-CSS          60 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Node.Js      60 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-```
-<!--END_SECTION:waka-->
 
 
