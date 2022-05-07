@@ -16,7 +16,11 @@
 <a href="https://www.linkedin.com/in/esteban-jose-gonzalez-gomez-297771173/">
   <img align="left" alt="Esteban LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-    <br>
+  <a href="https://github.com/Estebanjgg">
+  <img align="left" alt="Esteban LinkedIN" width="40px" src="https://s2.glbimg.com/dqtDny23aVtcuwHolyBWGY6QOUw=/0x0:695x400/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/A/G/gLrlUzTVqJm7GJzuMEAw/2015-02-11-github-logo.jpg"/>
+</a>
+ 
+  <br>
   <br>
   <br>
   <br>
