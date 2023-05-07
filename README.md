@@ -4,9 +4,15 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Estebanjgg.Estebanjgg)
  </p>
  
- <br><br>
- 
+
+
 <img  src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e479gdyl35b17g4ptqg2egok44smrk2qtbfzzg7rona&rid=giphy.gif&ct=g" width="100" height="50">
+  <br><br>
+  
+
+ 
+ <img src="https://user-images.githubusercontent.com/91167097/236695964-807b1716-7d83-4b19-b7d7-837ed3a98ecd.png" alt="Octocat" style="width:500px;height:500px;">
+
  
 <di text="center">
 
@@ -42,3 +48,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=estebanjgg&show_icons=true&locale=en" alt="estebanjgg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estebanjgg&" alt="estebanjgg" /></p>
+
+ ![octocat-1683267637611]("https://user-images.githubusercontent.com/91167097/236695964-807b1716-7d83-4b19-b7d7-837ed3a98ecd.png")
