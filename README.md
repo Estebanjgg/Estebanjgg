@@ -23,7 +23,7 @@
 
 <img src="https://64.media.tumblr.com/291e9f434c28304abb14badf57e1ed63/tumblr_mo224hiS2Q1s3cax1o1_500.gif" width="480" height="325"/>
 
-<br><br>
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estebanjgg" alt="estebanjgg" /></a> </p>
 
