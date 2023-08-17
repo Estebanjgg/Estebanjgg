@@ -1,11 +1,4 @@
 
-<p align="center" >
-
-![](https://visitor-badge.glitch.me/badge?page_id=Estebanjgg.Estebanjgg)
- </p>
- 
-
-
 <img  src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e479gdyl35b17g4ptqg2egok44smrk2qtbfzzg7rona&rid=giphy.gif&ct=g" width="100" height="50">
   <br><br>
   
