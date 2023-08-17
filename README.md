@@ -1,22 +1,11 @@
-
-<img  src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e479gdyl35b17g4ptqg2egok44smrk2qtbfzzg7rona&rid=giphy.gif&ct=g" width="100" height="50">
-  <br><br>
-  
-
- 
- <img src="octocat-1683267637611.png" alt="Octocat" style="width:500px;height:500px;">
-
- 
 <di text="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Racing+Sans+One&size=35&pause=1000&color=0ED434&vCenter=true&multiline=true&width=650&height=250&lines=Hello+my+name+is+Esteban+Gonzalez;+I+really+like+to+code+in+python+javascript+;i+am+from+Venezuela+and+i+live+in+brazil)](https://git.io/typing-svg)
 
 </div>
 
+ <img src="octocat-1683267637611.png" alt="Octocat" style="width:500px;height:500px;">
 
-<img src="https://64.media.tumblr.com/291e9f434c28304abb14badf57e1ed63/tumblr_mo224hiS2Q1s3cax1o1_500.gif" width="480" height="325"/>
-
-<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estebanjgg" alt="estebanjgg" /></a> </p>
 
@@ -42,4 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estebanjgg&" alt="estebanjgg" /></p>
 
- ![octocat-1683267637611]("https://user-images.githubusercontent.com/91167097/236695964-807b1716-7d83-4b19-b7d7-837ed3a98ecd.png")
